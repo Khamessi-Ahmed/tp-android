@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MultiLangues_Journalisation</string>
+    <string name="welcome">Welcome to our tracking app</string>
+    <string name="latitude_default">Latitude: N/A</string>
+    <string name="longitude_default">Longitude: N/A</string>
+    <string name="altitude_default">Altitude: N/A</string>
+    <string name="signal_strength_default">Signal Strength: N/A</string>
+    <string name="battery_level_default">Battery Level: N/A</string>
+    <string name="language_selection">Select Language</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="french">French</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="altitude">Altitude</string>
+    <string name="signal_strength">Signal Strength</string>
+    <string name="battery_level">Battery Level</string>
+</resources>

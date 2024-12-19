@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLangues_Journalisation</string>
+    <string name="welcome">مرحباً بكم في تطبيق التتبع الخاص بنا</string>
+    <string name="latitude_default">خط العرض: غير متوفر</string>
+    <string name="longitude_default">خط الطول: غير متوفر</string>
+    <string name="altitude_default">الارتفاع: غير متوفر</string>
+    <string name="signal_strength_default">قوة الإشارة: غير متوفر</string>
+    <string name="battery_level_default">مستوى البطارية: غير متوفر</string>
+    <string name="language_selection">اختر اللغة</string>
+    <string name="english">إنجليزي</string>
+    <string name="arabic">عربي</string>
+    <string name="french">فرنسي</string>
+    <string name="latitude">خط العرض</string>
+    <string name="longitude">خط الطول</string>
+    <string name="altitude">الارتفاع</string>
+    <string name="signal_strength">قوة الإشارة</string>
+    <string name="battery_level">مستوى البطارية</string>
+</resources>

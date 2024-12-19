@@ -1,0 +1,2 @@
+Android Studio (complément n°4) : Envoyer un SMS -> https://www.youtube.com/watch?v=UNBTFdbKymU
+Detect Incoming SMS in Android Studio -> https://www.youtube.com/watch?v=y-UXGMZk92E

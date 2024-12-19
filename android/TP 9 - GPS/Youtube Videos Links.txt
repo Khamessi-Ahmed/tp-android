@@ -1,0 +1,4 @@
+Android Get Current Location | Latitude, Longitude | Address | Geocoder | Location Manager | Android -> https://www.youtube.com/watch?v=qY-xFxZ7HKY
+TUTO Android : Comment internationaliser une application Android -> https://www.youtube.com/watch?v=6nmnWi_hfC0
+How to get the Signal Strength of the phone's cellular network in your Android App? -> https://www.youtube.com/watch?v=hojwvo99584
+DETERMINE THE CURRENT BATTERY LEVEL || ANDROID STUDIO(version 3.6.1) || JEEVAN R -> https://www.youtube.com/watch?v=VU854lUWeMw

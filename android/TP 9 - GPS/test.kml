@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KML xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Walking Route Simulation</name>
+
+    <!-- Start of the route (Waypoints) -->
+    <Placemark>
+      <name>Start Point</name>
+      <description>Starting Location</description>
+      <TimeStamp>
+        <when>2024-12-15T10:00:00Z</when> <!-- Start time -->
+      </TimeStamp>
+      <Point>
+        <coordinates>-0.1278,51.5074,0</coordinates> <!-- Longitude, Latitude, Altitude -->
+      </Point>
+    </Placemark>
+
+    <!-- Intermediate point 1 -->
+    <Placemark>
+      <name>Waypoint 1</name>
+      <description>Intermediate Location 1</description>
+      <TimeStamp>
+        <when>2024-12-15T10:05:00Z</when> <!-- Timestamp for the waypoint -->
+      </TimeStamp>
+      <Point>
+        <coordinates>-0.1280,51.5076,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Intermediate point 2 -->
+    <Placemark>
+      <name>Waypoint 2</name>
+      <description>Intermediate Location 2</description>
+      <TimeStamp>
+        <when>2024-12-15T10:10:00Z</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>-0.1283,51.5078,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- End of the route (Destination) -->
+    <Placemark>
+      <name>End Point</name>
+      <description>Destination</description>
+      <TimeStamp>
+        <when>2024-12-15T10:15:00Z</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>-0.1285,51.5080,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Path (LineString) -->
+    <Placemark>
+      <name>Walking Path</name>
+      <LineString>
+        <coordinates>
+          -0.1278,51.5074,0
+          -0.1280,51.5076,0
+          -0.1283,51.5078,0
+          -0.1285,51.5080,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</KML>
